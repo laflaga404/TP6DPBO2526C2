@@ -1,13 +1,10 @@
-# TP6DPBO2526C2
+e# TP6DPBO2526C2
 
 ## Janji
 
-Saya Nabil Azka Saputra dengan NIM 2507096 mengerjakan tp 6
-dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO).
-Untuk keberkahan-Nya, saya tidak melakukan kecurangan seperti yang telah
-dispesifikasikan. Aamiin.
+Saya Nabil Azka Saputra dengan NIM 2507096 mengerjakan Tugas Praktikum 6 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Penjelasan Desain
+## Penjelasan Desaine
 
 Program ini merupakan permainan **Flappy Bird** sederhana yang dibuat
 menggunakan Java Swing. Pemain mengendalikan burung untuk melewati
