@@ -83,7 +83,7 @@ Over, pemain dapat mengulang permainan atau kembali ke menu utama.
 
 ## Dokumentasi
 
-https://github.com/laflaga404/TP6DPBO2526C2/issues/1#issue-6166767792
+[https://github.com/laflaga404/TP6DPBO2526C2/issues/1#issue-6166767792](https://github.com/user-attachments/assets/a1d452a5-9451-4f56-856e-2c0c48b326fd)
 
 ![menu](dokumentasi/flappymenu.png)
 
