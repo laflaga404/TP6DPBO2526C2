@@ -83,7 +83,4 @@ Over, pemain dapat mengulang permainan atau kembali ke menu utama.
 
 ## Dokumentasi
 
-Dokumentasi program dibuat dalam bentuk rekaman layar agar alur
-penggunaan dan fitur permainan dapat dilihat secara langsung.
-
-**[Putar video dokumentasi](dokumentasi/demo.mp4)**
+**[video dokumentasi](dokumentasi/demo.mp4)**
