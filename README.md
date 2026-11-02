@@ -1,4 +1,4 @@
-e# TP6DPBO2526C2
+# TP6DPBO2526C2
 
 ## Janji
 
