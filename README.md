@@ -83,10 +83,10 @@ Over, pemain dapat mengulang permainan atau kembali ke menu utama.
 
 ## Dokumentasi
 
-**[video dokumentasi](dokumentasi/demo.mp4)**
+![video dokumentasi](dokumentasi/demo.mp4)
 
-**[menu](dokumentasi/flappymenu.png)**
+![menu](dokumentasi/flappymenu.png)
 
-**[tambah](dokumentasi/flappyadd.png)**
+![tambah](dokumentasi/flappyadd.png)
 
-**[kalah](dokumentasi/flappylose.png)**
+![kalah](dokumentasi/flappylose.png)
